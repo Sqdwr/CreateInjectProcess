@@ -1,0 +1,5 @@
+﻿  x.cpp
+c:\users\lenovo\desktop\createinjectprocess\createinjectprocess\x.cpp(32): warning C4018: “>=”: 有符号/无符号不匹配
+c:\users\lenovo\desktop\createinjectprocess\createinjectprocess\x.cpp(32): warning C4018: “<=”: 有符号/无符号不匹配
+  CreateInjectProcess.vcxproj -> C:\Users\Lenovo\Desktop\CreateInjectProcess\Debug\CreateInjectProcess.exe
+  CreateInjectProcess.vcxproj -> C:\Users\Lenovo\Desktop\CreateInjectProcess\Debug\CreateInjectProcess.pdb (Full PDB)

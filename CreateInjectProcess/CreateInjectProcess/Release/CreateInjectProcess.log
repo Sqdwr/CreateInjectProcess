@@ -1,0 +1,8 @@
+﻿  x.cpp
+x.cpp(32): warning C4018: “>=”: 有符号/无符号不匹配
+x.cpp(32): warning C4018: “<=”: 有符号/无符号不匹配
+  正在生成代码
+  All 327 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  CreateInjectProcess.vcxproj -> C:\Users\Lenovo\Desktop\CreateInjectProcess\Release\CreateInjectProcess.exe
+  CreateInjectProcess.vcxproj -> C:\Users\Lenovo\Desktop\CreateInjectProcess\Release\CreateInjectProcess.pdb (Full PDB)
